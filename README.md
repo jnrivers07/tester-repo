@@ -1,2 +1,2 @@
 # Tester
-This is a tester for Git/Github and VS
+This is a tester for Git/Github and VS editor
